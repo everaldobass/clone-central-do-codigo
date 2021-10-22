@@ -2,6 +2,6 @@
 
 
 #### Projeto - Clone de um Site
-Criando um ** Site ** - HTML5, CSS3.
+Criando um **Site** - HTML5, CSS3.
 
-<img src='./clone-central-do-codigo/img/centraldocodigo.png ' width='50%'/>
+<img src='./clone-central-do-codigo/img/centraldocodigo.png ' width='100%'/>
