@@ -2,5 +2,5 @@
 
 
 #### Projeto - Clone de um Site
-- Objetivo práticar HTML5 & CSS3
+Criando um **Site** - HTML5, CSS3.
 <img src='./clone-central-do-codigo/img/centraldocodigo.png ' width='50%'/>
